@@ -74,7 +74,7 @@ export default function Header() {
       <div className="block md:hidden bg-gray-100 px-4 py-2">
         <ul className="flex justify-between text-sm">
           <li>
-            <Link href="/New" className="hover:underline">
+            <Link href="/Shoes" className="hover:underline">
               New & Featured
             </Link>
           </li>
