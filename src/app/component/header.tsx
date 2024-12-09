@@ -84,20 +84,19 @@ export default function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/Women" className="hover:underline">
               Women
-            </Link>
           </li>
           <li>
-            <Link href="/Kids" className="hover:underline">
               Kids
-            </Link>
           </li>
           <li>
-            <Link href="/Sale" className="hover:underline">
               Sale
-            </Link>
           </li>
+          <Link href="/ProductDetail" className="hover:text-gray-700">
+            <li>
+                SNKRS
+            </li>
+            </Link>
         </ul>
       </div>
     </>
