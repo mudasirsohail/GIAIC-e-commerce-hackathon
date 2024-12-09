@@ -245,7 +245,7 @@ export default function MainPage() {
 </div>
 <footer className="bg-white py-8 w-full">
 
-  <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 justify-items-center pl-12 pr-12  ml-4">
+  <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 pr-12">
 
     <div>
       <h3 className="font-bold mb-4">Icons</h3>
